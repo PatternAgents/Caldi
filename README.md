@@ -3,17 +3,17 @@ Caldi
 
 PatternAgents Caldi I2C PyroInfraRed Grid Sensor
 
-[![PatternAgents Caldi](http://www.patternagents.com/projects/Caldi/assets/Caldi_model.png)  
-*PatternAgents Caldi*](http://www.patternagents.com/projects)
+[![PatternAgents Caldi](http://www.patternagent.com/projects/Caldi/assets/Caldi_model.png)  
+*PatternAgents Caldi*](http://www.patternagent.com/projects/Caldi)
 
 PatternAgents Caldi I2C PyroInfraRed Grid Sensor is a small PIR sensor board that utilizes
 the Panasonic "GridEye" sensor to give an 8x8 PIR matix heat view of a room.
-THis can used to determine the number of people in the room and relative heat signatures.
+This can used to determine the number of people in the room and relative heat signatures.
 
 Licensing CC v3.0 Share-Alike (http://creativecommons.org/licenses/by-sa/3.0/) 
-You are welcome to use this library for commercial purposes. 
+You are welcome to use this design for commercial purposes. 
 For attribution purposes, we kindly request that when you begin to sell a product 
-that was designed using our libraries, that you email us with a link to your product.
+that was designed using our IP, that you email us with a link to your product.
 
 THIS SOFTWARE IS PROVIDED BY THE CONTRIBUTORS "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, 
 INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
