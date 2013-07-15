@@ -3,7 +3,7 @@ Caldi
 
 PatternAgents Caldi I2C PyroInfraRed Grid Sensor
 
-[![PatternAgents Caldi](http://www.patternagent.com/img/project/Caldi/Caldi_model.png)  
+[![PatternAgents Caldi](http://www.patternagent.com/img/project/caldi/Caldi_model.png)  
 *PatternAgents Caldi*](http://www.patternagent.com/projects/caldi.html)
 
 PatternAgents Caldi I2C PyroInfraRed Grid Sensor is a small PIR sensor board that utilizes
