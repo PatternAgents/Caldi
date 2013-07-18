@@ -10,7 +10,7 @@ PatternAgents Caldi I2C PyroInfraRed Grid Sensor is a small PIR sensor board tha
 the Panasonic "GridEye" sensor to give an 8x8 PIR matix heat view of a room.
 THis can used to determine the number of people in the room and relative heat signatures.
 
-Licensing LGPLv3 ( http://www.gnu.org/licenses/lgpl-3.0-standalone.html )
+Licensing GPLv3 ( http://www.gnu.org/licenses/gpl-3.0-standalone.html )
 
 PatternAgents uses the increasingly popular business model called "Dual Licensing" 
 in which both the open source software distribution mechanism and traditional commercial software distribution models are combined.
